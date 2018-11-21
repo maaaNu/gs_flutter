@@ -2,7 +2,7 @@ import 'package:gs_flutter/Actions.dart';
 
 int incrementButton(int currentValue) {
   print(currentValue);
-  return currentValue + 1;
+  return currentValue + 2;
 }
 
 int buttonReducers(int state, dynamic action) {
